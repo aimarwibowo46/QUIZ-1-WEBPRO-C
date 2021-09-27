@@ -78,7 +78,7 @@ footer p {
 /*For Mobile Phone*/
 @media only screen and (max-width: 768px) {
 	footer p {
-		font-size: 0.8em;
+		font-size: 0.9em;
 	}
 }
 
