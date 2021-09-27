@@ -5,6 +5,16 @@ header {
 	background-size: cover;
 }
 
+/*For Mobile Phone*/
+@media only screen and (max-width: 768px) {
+	header {
+		width: 100%;
+		height: 30vh;
+		background: url(images/tegal.jpg);
+		background-size: cover;
+	}
+}
+
 .navbar {
 	padding: 3px;
 }
